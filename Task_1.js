@@ -10,5 +10,11 @@ for(let b= 1; b <= a; b++) {
    console.log(sum);
 
 
+
    
+
+
+
+
+
 
